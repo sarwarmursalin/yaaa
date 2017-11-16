@@ -6,5 +6,7 @@ int main()
 {
 	getchar();
 	getchar();
+	cout<<"cse";
 	return 0;
+	
 }
